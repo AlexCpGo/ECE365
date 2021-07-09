@@ -1,0 +1,2 @@
+Genomics_Lab1/ecoli.fastq filter=lfs diff=lfs merge=lfs -text
+Genomics_Lab4/Zeisel_expr.txt filter=lfs diff=lfs merge=lfs -text
